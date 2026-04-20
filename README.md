@@ -1,6 +1,6 @@
 # Hi, I'm Nitin Moturu 👋
-MS Software Engineering @ Arizona State University · Former Analyst @ IQVIA 
-I build full-stack web applications and backend systems — with a focus on database engineering, clean API design, and integrating AI into real products. I'm actively seeking Software Engineering and Database Engineering roles.
+MS Software Engineering @ Arizona State University · Former Software Analyst @ IQVIA 
+I build full-stack web applications and backend systems with a focus on database engineering, clean API design, and integrating AI into real products. I'm actively seeking Software Engineering and Database Engineering roles.
 
 
 ## 🌐 Socials:
